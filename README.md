@@ -13,3 +13,4 @@ settings/
 
 
 main.c is a sourse to read :)
+If the main.exe start running you can type help to see more commands!
